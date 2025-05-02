@@ -1,5 +1,10 @@
 # 🧱Smart Cement & Brick Calculator
 
+![Smart Cement Calculator](https://github.com/Darshan0244/Smart-cement-and-brick-calculator/blob/ec246392a69334ffad2d70a22aa3345471674a2a/bit_Wizard%20(1).png?raw=true)
+
+This project helps calculate materials required for construction...
+
+
 ## 🏗️ Description
 This project was created as a Hackathon project by a team of 4 members.
 
